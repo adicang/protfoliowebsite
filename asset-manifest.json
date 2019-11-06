@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/protfoliowebsite/static/css/main.3fb1a8ec.chunk.css",
+    "main.js": "/protfoliowebsite/static/js/main.a0b75c65.chunk.js",
+    "main.js.map": "/protfoliowebsite/static/js/main.a0b75c65.chunk.js.map",
+    "runtime-main.js": "/protfoliowebsite/static/js/runtime-main.1bb44465.js",
+    "runtime-main.js.map": "/protfoliowebsite/static/js/runtime-main.1bb44465.js.map",
+    "static/js/2.6c46d341.chunk.js": "/protfoliowebsite/static/js/2.6c46d341.chunk.js",
+    "static/js/2.6c46d341.chunk.js.map": "/protfoliowebsite/static/js/2.6c46d341.chunk.js.map",
+    "index.html": "/protfoliowebsite/index.html",
+    "precache-manifest.c6d3d4458c5733c4e9eb863b9f946421.js": "/protfoliowebsite/precache-manifest.c6d3d4458c5733c4e9eb863b9f946421.js",
+    "service-worker.js": "/protfoliowebsite/service-worker.js",
+    "static/css/main.3fb1a8ec.chunk.css.map": "/protfoliowebsite/static/css/main.3fb1a8ec.chunk.css.map",
+    "static/media/backoffice.gif": "/protfoliowebsite/static/media/backoffice.e2b1163c.gif",
+    "static/media/bookinGym.gif": "/protfoliowebsite/static/media/bookinGym.ba6ecd65.gif",
+    "static/media/deli.gif": "/protfoliowebsite/static/media/deli.45064882.gif",
+    "static/media/mabali.gif": "/protfoliowebsite/static/media/mabali.6a9c282a.gif",
+    "static/media/myImg.jpg": "/protfoliowebsite/static/media/myImg.a7153a36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bb44465.js",
+    "static/js/2.6c46d341.chunk.js",
+    "static/css/main.3fb1a8ec.chunk.css",
+    "static/js/main.a0b75c65.chunk.js"
+  ]
+}
