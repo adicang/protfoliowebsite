@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40691c7a82fdfa350a7cad2b44439e47",
+    "revision": "d4bb5c06f5b06c3cef3cb1d83a53d321",
     "url": "/protfoliowebsite/index.html"
   },
   {
-    "revision": "f4348fc5d93365475ee7",
+    "revision": "5c50d580a38900943c37",
     "url": "/protfoliowebsite/static/css/main.3e84a130.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/protfoliowebsite/static/js/2.c570fd0c.chunk.js"
   },
   {
-    "revision": "f4348fc5d93365475ee7",
-    "url": "/protfoliowebsite/static/js/main.3f0d99d8.chunk.js"
+    "revision": "5c50d580a38900943c37",
+    "url": "/protfoliowebsite/static/js/main.616c8355.chunk.js"
   },
   {
     "revision": "cb191d4825c75066d8cf",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "450648828f93aa5f736ad929a9b9dd6f",
     "url": "/protfoliowebsite/static/media/deli.45064882.gif"
+  },
+  {
+    "revision": "9e4af074fa985f16a45a5f29bbd45dce",
+    "url": "/protfoliowebsite/static/media/footballgif.9e4af074.gif"
   },
   {
     "revision": "6a9c282a71946e10dc842c931aaf2347",
